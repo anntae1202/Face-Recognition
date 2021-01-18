@@ -1,0 +1,6 @@
+conda install python
+pip install cmake
+pip install dlib
+conda install opencv
+pip uninstall numpy
+pip install --upgrade numpy==1.16.1
