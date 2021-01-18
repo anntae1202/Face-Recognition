@@ -1,5 +1,7 @@
 # Face-Recognition
+
 1. 작업 툴
+
 python3.6, opencv, dlib, numpy, matplotlib
 
 2. 작품소개
